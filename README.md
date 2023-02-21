@@ -11,13 +11,15 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=N" height="150" alt="stats graph"  />
   
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivesh98&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
-  
 </div>
 </br>
-</br>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivesh98&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+  
+</div>
 
+</br>
+</br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
@@ -29,7 +31,7 @@
 </div>
 </br>
 </br>
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nivesh-n-c-wanninayaka-52252b217/" target="_blank">
@@ -58,11 +60,11 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
 
 
-###
+
 
