@@ -1,9 +1,8 @@
 <h2 align="left">Hi 👋! My name is Nivesh</h2>
 </br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=4th+Year+Information+Technology+Undergraduate;adaptive+to+coding;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20technologies&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=4th+Year+Information+Technology+Undergraduate;Adaptive+to+Coding;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20technologies&center=true&width=500&height=50"></a>
 </p>
-</br>
 </br>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
