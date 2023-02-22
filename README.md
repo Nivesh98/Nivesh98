@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Nivesh njkhk</h2>
+<h2 align="left">Hi 👋! I'm Nivesh</h2>
 </br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=4th+Year+Information+Technology+Undergraduate;Adaptive+to+Coding;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20technologies&center=true&width=500&height=50"></a>
