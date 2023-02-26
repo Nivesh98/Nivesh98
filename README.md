@@ -1,9 +1,7 @@
-
-  ![Nivesh Wanninayaka Banner](
-  
-  https://raw.githubusercontent.com/Nivesh98/Nivesh98/main/Readme%20Background.png
-  
-  )
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nivesh98/Nivesh98/main/Readme%20Background.png)" alt="Alt Text" />
+</p>
+<!--   ![Nivesh Wanninayaka Banner](https://raw.githubusercontent.com/Nivesh98/Nivesh98/main/Readme%20Background.png) -->
 
 <h2 align="left">Hi 👋! I'm Nivesh</h2>
 </br>
