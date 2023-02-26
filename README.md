@@ -1,4 +1,6 @@
-![Nivesh Wanninayaka Banner](https://raw.githubusercontent.com/Nivesh98/Nivesh98/main/Readme%20Background.png)
+<div align="center">
+  ![Nivesh Wanninayaka Banner](https://raw.githubusercontent.com/Nivesh98/Nivesh98/main/Readme%20Background.png)
+</div>
 <h2 align="left">Hi 👋! I'm Nivesh</h2>
 </br>
 <p align="center">
