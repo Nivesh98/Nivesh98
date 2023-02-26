@@ -1,3 +1,4 @@
+![Nivesh Wanninayaka Banner](https://raw.githubusercontent.com/Nivesh98/Nivesh98/main/Readme%20Background.png)
 <h2 align="left">Hi 👋! I'm Nivesh</h2>
 </br>
 <p align="center">
