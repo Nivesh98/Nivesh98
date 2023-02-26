@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nivesh98/Nivesh98/main/Readme%20Background.png)" alt="Alt Text" />
+  <img src="https://raw.githubusercontent.com/Nivesh98/Nivesh98/main/Readme%20Background.png" alt="Alt Text" />
 </p>
 <!--   ![Nivesh Wanninayaka Banner](https://raw.githubusercontent.com/Nivesh98/Nivesh98/main/Readme%20Background.png) -->
 
