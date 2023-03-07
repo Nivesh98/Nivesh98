@@ -1,4 +1,4 @@
-Nni<p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Nivesh98/Nivesh98/main/ReadMe%20background%20It%20Undergraduate.png" alt="Alt Text" />
 </p>
 <!--   ![Nivesh Wanninayaka Banner](https://raw.githubusercontent.com/Nivesh98/Nivesh98/main/Readme%20Background.png) -->
