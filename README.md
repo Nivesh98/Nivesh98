@@ -1,4 +1,4 @@
-<p align="center">
+Nni<p align="center">
   <img src="https://raw.githubusercontent.com/Nivesh98/Nivesh98/main/ReadMe%20background%20It%20Undergraduate.png" alt="Alt Text" />
 </p>
 <!--   ![Nivesh Wanninayaka Banner](https://raw.githubusercontent.com/Nivesh98/Nivesh98/main/Readme%20Background.png) -->
@@ -10,7 +10,7 @@
 </p>
 </br>
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="https://www.linkedin.com/in/nivesh-n-c-wanninayaka-52252b217/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
